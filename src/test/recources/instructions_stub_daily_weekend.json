@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "entity": "foo",
+      "buy_sell": "B",
+      "agreed_fx": "0.50",
+      "currency": "GBP",
+      "instruction_date": "01 Nov 2019",
+      "settlement_date": "02 Nov 2019",
+      "units": "200",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "S",
+      "agreed_fx": "0.22",
+      "currency": "GBP",
+      "instruction_date": "01 Nov 2019",
+      "settlement_date": "02 Nov 2019",
+      "units": "130",
+      "price_per_unit": "321.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "B",
+      "agreed_fx": "1.50",
+      "currency": "SGD",
+      "instruction_date": "30 Oct 2019",
+      "settlement_date": "01 Nov 2019",
+      "units": "200",
+      "price_per_unit": "5.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "S",
+      "agreed_fx": "1.50",
+      "currency": "AED",
+      "instruction_date": "30 Oct 2019",
+      "settlement_date": "01 Nov 2019",
+      "units": "50",
+      "price_per_unit": "5.25"
+    }
+  ]
+}

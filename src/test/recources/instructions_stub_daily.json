@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "entity": "foo",
+      "buy_sell": "B",
+      "agreed_fx": "0.50",
+      "currency": "GBP",
+      "instruction_date": "01 Nov 2019",
+      "settlement_date": "04 Nov 2019",
+      "units": "200",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "S",
+      "agreed_fx": "0.22",
+      "currency": "GBP",
+      "instruction_date": "01 Nov 2019",
+      "settlement_date": "04 Nov 2019",
+      "units": "130",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "B",
+      "agreed_fx": "1.50",
+      "currency": "GBP",
+      "instruction_date": "01 Nov 2019",
+      "settlement_date": "04 Nov 2019",
+      "units": "200",
+      "price_per_unit": "500.25"
+    },
+    {
+      "entity": "bar",
+      "buy_sell": "S",
+      "agreed_fx": "0.22",
+      "currency": "USD",
+      "instruction_date": "05 Nov 2019",
+      "settlement_date": "07 Nov 2019",
+      "units": "200",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "foo",
+      "buy_sell": "B",
+      "agreed_fx": "0.60",
+      "currency": "SGD",
+      "instruction_date": "05 Nov 2019",
+      "settlement_date": "07 Nov 2019",
+      "units": "500",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "bar",
+      "buy_sell": "S",
+      "agreed_fx": "0.22",
+      "currency": "GBP",
+      "instruction_date": "12 Nov 2019",
+      "settlement_date": "13 Nov 2019",
+      "units": "130",
+      "price_per_unit": "100.25"
+    },
+    {
+      "entity": "bar",
+      "buy_sell": "S",
+      "agreed_fx": "0.22",
+      "currency": "CAD",
+      "instruction_date": "12 Nov 2019",
+      "settlement_date": "13 Nov 2019",
+      "units": "130",
+      "price_per_unit": "250.25"
+    },
+    {
+      "entity": "bar",
+      "buy_sell": "B",
+      "agreed_fx": "0.22",
+      "currency": "AED",
+      "instruction_date": "15 Nov 2019",
+      "settlement_date": "13 Nov 2019",
+      "units": "50",
+      "price_per_unit": "100.25"
+    }
+  ]
+}
